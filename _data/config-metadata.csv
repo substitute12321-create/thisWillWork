@@ -1,0 +1,25 @@
+field,display_name,browse_link,external_link
+title,Title,,
+creator,Creator,true,
+publisher,Publisher,true,
+date,Date Created,true,
+description,Description,,
+subject,Subjects,true,
+genre,Genre,true,
+mood,Mood,true,
+theme,Theme,true,
+subgenre,Subgenre,true,
+mechanics,Game Mechanics,true,
+platform,Platform,true,
+mode,Mode,true,
+language,Language,true,
+location,Location,,
+latitude,Latitude,,
+longitude,Longitude,,
+source,Source,,
+identifier,Source Identifier,,true
+type,Type,true,
+format,Format,true,
+rights,Rights,,
+rightsstatement,Rights Statement,,true
+rating,Rating,true
