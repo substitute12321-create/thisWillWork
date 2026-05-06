@@ -1,0 +1,10 @@
+field,display_name,btn,hidden,sort_name
+title,Title,,,
+creator,Creator,,,
+publisher,Publisher,,,
+date,Date,,,Date
+mode,Mode,,,
+platform,Platform,,,
+description,Description,,,
+subject,Subjects,true
+location,Location,true
