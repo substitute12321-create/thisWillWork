@@ -1,0 +1,32 @@
+---
+# Default home page with boxes providing collection stats
+layout: page
+---
+
+<div class="row">
+  <div class="col-md-8">
+
+    {% include index/description.html %}
+
+    {% include index/featured-terms.html field="title" title="Games" btn-color="primary" max=50 %}
+
+    {% include index/featured-terms.html field="mode" title="Modes" btn-color="primary" max=50 %}
+
+  
+  </div>
+  
+  <div class="col-md-4">
+
+    {% include index/time.html %}
+
+    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" max=50 %}
+
+    {% include index/featured-terms.html field="creator" title="Creators" btn-color="success" max=50 %}
+
+    {% include index/featured-terms.html field="publisher" title="Publishers" btn-color="warning" max=50 %}
+
+    {% include index/objects.html %}
+
+  </div>
+  
+</div>
